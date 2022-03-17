@@ -1,6 +1,8 @@
 <<<<<<< HEAD
+
 Shopie
 By Joseph Ngowwa
+
 DESCRIPTION
 Shopie is a website that is dedicated to offer a variety of electronics to customers at affordable prices. Through the website, you can get to know who we are and what we do too. We also give you a chance to take a sneak peek at our past projects and contact us for enquiry and more.
 The active link to this webpage is 
